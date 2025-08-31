@@ -7,7 +7,6 @@
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Developer-blueviolet?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=opensourceinitiative" />
   <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-orange?style=for-the-badge&logo=serverless" />
 </p>
 
