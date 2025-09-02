@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">Hey 👋, I'm Adarsh Yadav</h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#ff4b4b;">Adarsh Yadav</span></h1>
 <h3 align="center">🚀 Backend Developer | Problem Solver | Tech Enthusiast</h3>
 
 ---
@@ -8,48 +8,50 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Developer-blueviolet?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-orange?style=for-the-badge&logo=serverless" />
+  <img src="https://img.shields.io/badge/Loves-System%20Design-teal?style=for-the-badge&logo=architecture" />
 </p>
 
 ---
 
-### ✨ About Me  
-- 🔭 Currently working on **Scalable Web Applications**  
-- 🌱 Learning **Cloud Architecture & DevOps**  
+## ✨ About Me  
+- 🔭 Currently building **Scalable Web Applications**  
+- 🌱 Diving deeper into **Cloud Architecture & DevOps**  
 - 💬 Ask me about **Backend, Databases, Deployment**  
 - 📧 Reach me at **imritik7303@gmail.com**  
+- ⚡ Always exploring **System Design + High Performance APIs**  
 
 ---
 
-### 🛠 Tech Stack  
+## 🛠 Tech Stack  
 
 #### 💻 Languages  
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,py,go,cpp,c" />
 </p>
 
 #### ⚡ Frameworks & Libraries  
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,nextjs,react,redux,tailwind,graphql" />
 </p>
 
 #### 🗄 Databases  
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
 </p>
 
 #### ⚙️ Tools & DevOps  
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=docker,git,nginx,linux" />
 </p>
 
 #### ☁️ Cloud  
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 ---
 
-### 📈 GitHub Analytics  
+## 📊 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imritik7303&show_icons=true&theme=radical&hide_border=true" height="170" />
@@ -62,12 +64,12 @@
 
 ---
 
-### 🌐 Connect with Me  
+## 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/adarshyadav06/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="imritik7303@gmail.com">
+  <a href="mailto:imritik7303@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://x.com/adarshyada15878" target="_blank">
@@ -77,7 +79,5 @@
 
 ---
 
-### 🎯 Fun Fact  
-_"Code is like humor. When you have to explain it, it’s bad."_  
-
----
+## 🎯 Fun Fact  
+<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
