@@ -67,6 +67,14 @@
 
 ---
 
+### 📊 Weekly Development Analytics  
+
+<p align="center">
+  <img src="./metrics.plugin.isocalendar.svg" alt="GitHub Metrics" />
+</p>
+
+
+
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/adarshyadav06/" target="_blank">
