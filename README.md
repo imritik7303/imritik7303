@@ -56,8 +56,10 @@
 ### 📈 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imritik7303&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imritik7303&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  ## 📊 GitHub Analytics
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imritik7303&theme=nord_dark)
+
 </p>
 
 <p align="center">
