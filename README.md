@@ -56,10 +56,8 @@
 ### 📈 GitHub Analytics  
 
 <p align="center">
-  ## 📊 GitHub Analytics
-
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imritik7303&theme=nord_dark)
-
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imritik7303&theme=nord_dark)  
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imritik7303&theme=nord_dark)
 </p>
 
 <p align="center">
