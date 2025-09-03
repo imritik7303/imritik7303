@@ -57,7 +57,7 @@
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imritik7303&theme=nord_dark" alt="Profile Details" width="60%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imritik7303&theme=nord_dark" alt="Repos per Language" width="38%"/>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imritik7303&theme=nord_dark" alt="GitHub Stats" width="38%"/>
 </p>
 
 ---
